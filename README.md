@@ -1,5 +1,5 @@
 # Data_Merge-with-Python
-## Project Title: Data Cleaning & Merging for Analysis Using Python
+## Project Title: Data Cleaning & Merging using Python and SQL Analysis
 ### Objective
 To demonstrate data cleaning, transformation, and merging skills by preparing multiple raw datasets for analysis. This project focused on creating a clean, analysis-ready dataset from fragmented and inconsistent data sources using Python (Pandas). The clean dataset was later structured for advanced analysis through SQL and visualization tools.
 ### Data Source
@@ -31,8 +31,30 @@ Kaggle: European Fashion Store Multi-Table Dataset included customer, campaign, 
 #### Exporting Cleaned Dataset
 * Saved the cleaned and merged data for further SQL analysis and visualization.
 
-### Key Focus Areas & Deliverables
+### Key Insights using SQL Analysis
+* A total of 300,000 transactions were recorded in the dataset.
+* The total revenue generated was approximately $92.99 million.
+* The average price per product was $103.25, and the average quantity purchased per transaction was 3 items.
+* The top 5 cities by number of transactions were:
+North Michael (448 transactions)
+Jessicamouth (405)
+Lake Joseph (402)
+West Michael (376)
+East Matthew (363)
+* The top 5 countries by number of transactions were:
+Congo (2,364 transactions)
+Korea (2,331)
+Tunisia (1,781)
+Russian Federation (1,775)
+Argentina (1,770)
+*In terms of revenue by product category:
+Home category generated $24.69 million
+Books generated $23.76 million
+Clothing generated $22.32 million
+Electronics generated $22.21 million
+
+### Focus Areas & Deliverables
 * Structured, well-documented data cleaning process.
 * Efficient data merging across multiple relational datasets.
 * Clean dataset prepared for SQL queries and Power BI dashboards.
-Demonstrated understanding of relational data modeling in Python.
+* Demonstrated understanding of merging datasets in Python.
